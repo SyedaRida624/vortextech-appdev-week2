@@ -8,10 +8,13 @@ A responsive and interactive **To-Do List application** built with Flutter for t
 
 ## Initial Task List      
 <img width="1038" height="625" alt="v2 1" src="https://github.com/user-attachments/assets/2ff83bf1-5300-46fd-97a3-784b1c8866fe" />
+
 ## Adding New Task
 <img width="1043" height="605" alt="v2 2" src="https://github.com/user-attachments/assets/943714d9-c876-4148-b8d3-be63a7e7fcdc" />
+
 ## All Tasks Completed
 <img width="1039" height="611" alt="v2 3" src="https://github.com/user-attachments/assets/6b4df663-d610-43b1-940c-293f233f70eb" />
+
 ## Empty State View 
 <img width="1053" height="626" alt="v2 4" src="https://github.com/user-attachments/assets/9782b589-7bbd-4046-8029-34f2454e0f0d" />
 
